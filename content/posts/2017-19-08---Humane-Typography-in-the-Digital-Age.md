@@ -1,7 +1,7 @@
 ---
 template: post
-title: My Digital Genisis
-slug: /posts/my-genisis/
+title: My Digital Genesis
+slug: /posts/My-Digital-Genesis/
 draft: false
 date: '2017-08-19T22:40:32.169Z'
 description: >-

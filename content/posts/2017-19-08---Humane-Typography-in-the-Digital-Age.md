@@ -1,7 +1,7 @@
 ---
 template: post
 title: My Digital Genesis
-slug: /posts/My-Digital-Genesis/
+slug: /posts/my-digital-genesis/
 draft: false
 date: 2019-04-17T21:23:00.000Z
 description: 'A brief overview of what Inspired me, why I''m here, and what to expect. '

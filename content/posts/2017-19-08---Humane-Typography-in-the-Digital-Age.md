@@ -17,7 +17,7 @@ tags:
 
 ## The call. 
 
-I have always been full of Ideas and new ways to approach problems, and over the years it became common for me to call my grandmother to share all of the ideas that were almost literally burning in my chest. The ideas would fly out but I continuously had a hard time focusing on any one project or Idea. Something my grandmother started to quote to me was  **Habakkuk 2:2. "Write the vision, and make it plain upon tables, that he may run that readeth it."** It then took even more years of repeating but in the last 12 months of my live this scripture has played out in a big way. 
+I have always been full of Ideas and new ways to approach problems, and over the years it became common for me to call my grandmother to share all of the ideas that were almost literally burning in my chest. The ideas would fly out but I continuously had a hard time focusing on any one project or Idea. Something my grandmother started to quote to me was  **Habakkuk 2:2. "Write the vision, and make it plain upon tables, that he may run that readeth it."** It took a few more years of repeating but in the last 12 months of my live this scripture has played out in a big way. 
 
 
 
